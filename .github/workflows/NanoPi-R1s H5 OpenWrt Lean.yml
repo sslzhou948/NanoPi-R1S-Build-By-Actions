@@ -10,12 +10,12 @@
 
 name: NanoPi-R1s H5 OpenWrt Lean Build
 
-on:
-  push:
-    branches: 
+#on:
+  #push:
+    #branches: 
       - master
-  schedule:
-    - cron: '0 6 * * *'
+  #schedule:
+    #- cron: '0 6 * * *'
   # release:
   #   types: [published]
 
